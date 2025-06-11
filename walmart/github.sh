@@ -3,3 +3,4 @@ There are 3 areas is Git
 1.Working area
 2.Staging area
 3.Repository
+
